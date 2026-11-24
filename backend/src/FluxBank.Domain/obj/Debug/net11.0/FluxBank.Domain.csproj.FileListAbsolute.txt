@@ -1,0 +1,13 @@
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Domain\bin\Debug\net11.0\FluxBank.Domain.deps.json
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Domain\bin\Debug\net11.0\FluxBank.Domain.dll
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Domain\bin\Debug\net11.0\FluxBank.Domain.pdb
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Domain\obj\Debug\net11.0\FluxBank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Domain\obj\Debug\net11.0\FluxBank.Domain.AssemblyInfoInputs.cache
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Domain\obj\Debug\net11.0\FluxBank.Domain.AssemblyInfo.cs
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Domain\obj\Debug\net11.0\FluxBank.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Domain\obj\Debug\net11.0\FluxBank.Domain.sourcelink.json
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Domain\obj\Debug\net11.0\FluxBank.Domain.dll
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Domain\obj\Debug\net11.0\refint\FluxBank.Domain.dll
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Domain\obj\Debug\net11.0\FluxBank.Domain.pdb
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Domain\obj\Debug\net11.0\ref\FluxBank.Domain.dll
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Domain\obj\Debug\net11.0\FluxBank.D639A34A.Up2Date

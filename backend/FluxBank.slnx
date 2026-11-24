@@ -1,2 +1,8 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FluxBank.API/FluxBank.API.csproj" />
+    <Project Path="src/FluxBank.Application/FluxBank.Application.csproj" />
+    <Project Path="src/FluxBank.Domain/FluxBank.Domain.csproj" />
+    <Project Path="src/FluxBank.Infrastructure/FluxBank.Infrastructure.csproj" />
+  </Folder>
 </Solution>

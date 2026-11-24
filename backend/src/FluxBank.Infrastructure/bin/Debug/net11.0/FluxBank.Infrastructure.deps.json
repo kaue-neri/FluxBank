@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "FluxBank.Infrastructure/1.0.0": {
+        "dependencies": {
+          "FluxBank.Application": "1.0.0",
+          "FluxBank.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FluxBank.Infrastructure.dll": {}
+        }
+      },
+      "FluxBank.Application/1.0.0": {
+        "dependencies": {
+          "FluxBank.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FluxBank.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "FluxBank.Domain/1.0.0": {
+        "runtime": {
+          "FluxBank.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FluxBank.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluxBank.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluxBank.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

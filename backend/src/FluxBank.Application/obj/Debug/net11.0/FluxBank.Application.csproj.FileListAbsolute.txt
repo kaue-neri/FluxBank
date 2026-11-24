@@ -1,0 +1,16 @@
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Application\bin\Debug\net11.0\FluxBank.Application.deps.json
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Application\bin\Debug\net11.0\FluxBank.Application.dll
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Application\bin\Debug\net11.0\FluxBank.Application.pdb
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Application\bin\Debug\net11.0\FluxBank.Domain.dll
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Application\bin\Debug\net11.0\FluxBank.Domain.pdb
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Application\obj\Debug\net11.0\FluxBank.Application.csproj.AssemblyReference.cache
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Application\obj\Debug\net11.0\FluxBank.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Application\obj\Debug\net11.0\FluxBank.Application.AssemblyInfoInputs.cache
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Application\obj\Debug\net11.0\FluxBank.Application.AssemblyInfo.cs
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Application\obj\Debug\net11.0\FluxBank.Application.csproj.CoreCompileInputs.cache
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Application\obj\Debug\net11.0\FluxBank.Application.sourcelink.json
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Application\obj\Debug\net11.0\FluxBank.482F1819.Up2Date
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Application\obj\Debug\net11.0\FluxBank.Application.dll
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Application\obj\Debug\net11.0\refint\FluxBank.Application.dll
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Application\obj\Debug\net11.0\FluxBank.Application.pdb
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.Application\obj\Debug\net11.0\ref\FluxBank.Application.dll
