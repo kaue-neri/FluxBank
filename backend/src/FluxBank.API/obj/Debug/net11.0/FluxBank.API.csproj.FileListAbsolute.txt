@@ -51,3 +51,8 @@ C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.A
 C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.API\obj\Debug\net11.0\FluxBank.API.pdb
 C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.API\obj\Debug\net11.0\FluxBank.API.genruntimeconfig.cache
 C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.API\obj\Debug\net11.0\ref\FluxBank.API.dll
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.API\bin\Debug\net11.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.API\bin\Debug\net11.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.API\bin\Debug\net11.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.API\bin\Debug\net11.0\MySqlConnector.dll
+C:\Users\SUPORTE TECNICO\Documents\kaue_projects\FluxBank\backend\src\FluxBank.API\bin\Debug\net11.0\Pomelo.EntityFrameworkCore.MySql.dll

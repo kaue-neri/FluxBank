@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FluxBank.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a77bc17865a85940ec898c8ea119c283dc01330")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b955da122f46788e15ba5b9630bb68cd6a78a437")]
 [assembly: System.Reflection.AssemblyProductAttribute("FluxBank.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FluxBank.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,11 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "J23iVFi82I8=",
+  "dgSpecHash": "yf8BX20m9lQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\SUPORTE TECNICO\\Documents\\kaue_projects\\FluxBank\\backend\\src\\FluxBank.API\\FluxBank.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SUPORTE TECNICO\\.nuget\\packages\\microsoft.aspnetcore.openapi\\11.0.0\\microsoft.aspnetcore.openapi.11.0.0.nupkg.sha512",
-    "C:\\Users\\SUPORTE TECNICO\\.nuget\\packages\\microsoft.openapi\\3.11.0\\microsoft.openapi.3.11.0.nupkg.sha512"
+    "C:\\Users\\SUPORTE TECNICO\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
+    "C:\\Users\\SUPORTE TECNICO\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0\\microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\SUPORTE TECNICO\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.0\\microsoft.entityframeworkcore.analyzers.9.0.0.nupkg.sha512",
+    "C:\\Users\\SUPORTE TECNICO\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.0\\microsoft.entityframeworkcore.relational.9.0.0.nupkg.sha512",
+    "C:\\Users\\SUPORTE TECNICO\\.nuget\\packages\\microsoft.openapi\\3.11.0\\microsoft.openapi.3.11.0.nupkg.sha512",
+    "C:\\Users\\SUPORTE TECNICO\\.nuget\\packages\\mysqlconnector\\2.6.1\\mysqlconnector.2.6.1.nupkg.sha512",
+    "C:\\Users\\SUPORTE TECNICO\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\9.0.0\\pomelo.entityframeworkcore.mysql.9.0.0.nupkg.sha512"
   ],
   "logs": []
 }
